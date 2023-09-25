@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/delicious_tour/static/css/main.09ac9930.css",
+    "main.js": "/delicious_tour/static/js/main.c99b74c7.js",
+    "static/js/787.6169c9d4.chunk.js": "/delicious_tour/static/js/787.6169c9d4.chunk.js",
+    "static/media/restaurant-food.jpg": "/delicious_tour/static/media/restaurant-food.827fb0bfe6f625329f41.jpg",
+    "static/media/logo.png": "/delicious_tour/static/media/logo.bb8645da243622ca3bbc.png",
+    "static/media/customer1.jpg": "/delicious_tour/static/media/customer1.676aa6ef942aff97745c.jpg",
+    "static/media/kung_pao_chicken.jpg": "/delicious_tour/static/media/kung_pao_chicken.44f79f1f703fb536ef7a.jpg",
+    "static/media/bruschetta.jpg": "/delicious_tour/static/media/bruschetta.77e51359eb4049758acd.jpg",
+    "static/media/customer3.jpg": "/delicious_tour/static/media/customer3.bea6cfdde85132bd9a90.jpg",
+    "static/media/greek-salad.jpg": "/delicious_tour/static/media/greek-salad.f5676c4b2547228a9218.jpg",
+    "static/media/chicago1.jpg": "/delicious_tour/static/media/chicago1.b00e65fc9ce1e317f7a8.jpg",
+    "static/media/lemon-dessert.jpg": "/delicious_tour/static/media/lemon-dessert.737697243af40fd52b69.jpg",
+    "static/media/chicago2.jpg": "/delicious_tour/static/media/chicago2.253d7a7100be9349251b.jpg",
+    "static/media/customer2.jpg": "/delicious_tour/static/media/customer2.85da7dcbd11d6d9b9b74.jpg",
+    "index.html": "/delicious_tour/index.html",
+    "main.09ac9930.css.map": "/delicious_tour/static/css/main.09ac9930.css.map",
+    "main.c99b74c7.js.map": "/delicious_tour/static/js/main.c99b74c7.js.map",
+    "787.6169c9d4.chunk.js.map": "/delicious_tour/static/js/787.6169c9d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ac9930.css",
+    "static/js/main.c99b74c7.js"
+  ]
+}
